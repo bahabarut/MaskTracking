@@ -1,1 +1,1 @@
-# AEngin Demiroğ C# 2024 Bootcamp 1.Ödev
+# Engin Demiroğ C# 2024 Bootcamp 1.Ödev
